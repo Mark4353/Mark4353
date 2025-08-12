@@ -1,1 +1,2 @@
 - 👋 Hi, I’m der1x
+- 👨‍💻 I frontEnd dev
