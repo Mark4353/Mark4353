@@ -1,5 +1,5 @@
 - 👋 Hi, I’m der1x
-- 👨‍💻 I frontEnd dev
+- 👨‍💻 I frontEnd/python dev
   
 " https://mark4353.github.io/portfoli0/ "- My Portfolio
 
