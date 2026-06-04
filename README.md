@@ -3,4 +3,4 @@
   
 " https://mark4353.github.io/portfoli0/ "- My Portfolio
 
-Founder/owner and developer -" https://t.me/boardersBot "
+Founder/owner and developer -" https://t.me/BorderOffBot "
